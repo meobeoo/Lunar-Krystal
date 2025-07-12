@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
+    "BOTNAME": "Bot🪣",
     "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
     "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100018277053087"
+        "100090636969624"
     ],
     "NDH": [
-        "100018277053087"
+        "100090636969624"
     ],
     "DATABASE": {
         "sqlite": {

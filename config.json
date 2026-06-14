@@ -14,10 +14,10 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Bot🍚👙🌾💸",
+    "BOTNAME": "Bot",
     "AMDIN_NAME": ":",
     "FACEBOOK_ADMIN": "",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "ADMINBOT": [
         "61585748627785"
     ],

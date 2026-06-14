@@ -19,10 +19,10 @@
     "FACEBOOK_ADMIN": "",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100090636969624"
+        ""
     ],
     "NDH": [
-        "100090636969624"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
